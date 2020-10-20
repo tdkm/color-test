@@ -3,6 +3,12 @@ body {
   font-weight: 300;
 }
 
+h1.title {
+  font-family: "Oswald", sans-serif;
+  text-align: center;
+  font-size: 4rem;
+}
+
 .color_list {
   margin: 0 0 5rem 0;
 }
@@ -32,12 +38,6 @@ body {
 h2.title {
   margin: 2rem 0 0 0;
   font-weight: 500;
-}
-
-h1.title {
-  font-family: "Oswald", sans-serif;
-  text-align: center;
-  font-size: 4rem;
 }
 
 .footer {
