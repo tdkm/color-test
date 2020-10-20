@@ -1,5 +1,6 @@
 body {
   font-family: "Noto Sans JP", sans-serif;
+  font-weight: 300;
 }
 
 .color_list {
@@ -21,14 +22,22 @@ body {
 .color_tip {
   width: 100%;
   height: 4rem;
+  opacity: 0;
+}
+
+.color_tip.show {
+  opacity: 1;
 }
 
 h2.title {
   margin: 2rem 0 0 0;
+  font-weight: 500;
 }
 
 h1.title {
   font-family: "Oswald", sans-serif;
+  text-align: center;
+  font-size: 4rem;
 }
 
 .footer {
