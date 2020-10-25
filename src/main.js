@@ -26,3 +26,5 @@ btn_show_ct.addEventListener('click', () => {
     elm.classList.add('show');
   });
 });
+
+console.log("aaa"); console.log("bbb");

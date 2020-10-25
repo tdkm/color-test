@@ -1,0 +1,12 @@
+{
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "html.autoClosingTags": true,
+    "html.format.contentUnformatted": "pre, code, textarea, title, h1, h2, h3, h4, h5, h6, p", // タグ内の記述はフォーマットしない
+    "html.format.extraLiners": "", // head, body, /html タグの前に改行を入れない
+    "html.format.unformatted": null, // フレージング・コンテンツ（旧インライン要素のようなタグ）はフォーマットしない  
+    "editor.formatOnType": true,
+    "editor.formatOnSave": true,
+    "editor.defaultFormatter": "vscode.configuration-editing",
+    "editor.formatOnPaste": true
+}
